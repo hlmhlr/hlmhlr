@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🔭 I’m currently working on object detection in images/videos, multi-object tracking, and segmentation in remote sensing applications. 
+- 👯 I’m looking to collaborate on deep learning based object detection in aerial sequences.
 
 <!--
 **hlmhlr/hlmhlr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
